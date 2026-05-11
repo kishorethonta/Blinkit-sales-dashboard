@@ -17,9 +17,6 @@ This project analyzes Blinkit sales data using Power BI.
 - DAX
 - Power Query
 
-## Dashboard Preview
-(Add screenshots here)
-
 ## Project Insights
 - Tier 3 outlets generated highest sales
 - Fruits and Snacks categories performed best
